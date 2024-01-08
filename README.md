@@ -1,10 +1,1 @@
-
-
-Queue job:
-
-sbatch job.slurm
-
-
-Check queue:
-
-squeue
+# ERG-AI: Enhancing Occupational Ergonomics with Uncertainty-aware ML and LLM Feedback. 
